@@ -4,7 +4,7 @@ title: Brandon Hagerman's Resume
 ---
 # Brandon Hagerman
 Computer Science student at BYU-Idaho
-
+############################################################################ change the links below to your email and LinkedIn or something
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
@@ -38,7 +38,7 @@ __Melaleuca__, Software Engineer I
 - Worked with Git, Azure Devops, and Postman
 
 ## Service and Work History
-
+############################################################################ maybe add some skills you developed in this section
 `Fall 2022`
 Cloud Solution Society Member
 
